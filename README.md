@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 M.Sc. Student | Civil & Environmental Engineering | University of Tehran
 ------------------------------------------------------------------------
 
-Learning Python & Machine Learning for research Working towards applying Deep Learning in ,Urban flood Resilienc Let's connect and collaborate! 🚀
+Learning Python & Machine Learning for research Working towards applying Deep Learning in ,Urban flood Resilience Let's connect and collaborate! 🚀
 
 *   ✉️  You can contact me at [babak.kalhor@ut.ac.ir](mailto:babak.kalhor@ut.ac.ir)
 *   🧠  I'm learning Python & Machine Learning
